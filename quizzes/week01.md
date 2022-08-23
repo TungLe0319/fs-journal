@@ -71,7 +71,7 @@ the body of the HTML document
 <!-- enter you answer in the space below -->
 ```
 if a container has display:flex property applied to it
-it's children node can be alligned into rows and columns
+it's children node can be aligned into rows and columns sharing the width of their parent container 
 
 ```
 
