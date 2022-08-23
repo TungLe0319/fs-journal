@@ -43,7 +43,7 @@ Selector:Element Name, Id Name, or Class Name
 
 Property: an attribute such as color, background-color,font-size etc...
 
-Value:defines property or property values
+Value:defines property or property values "rgba(255, 210, 33, .75)"
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
@@ -55,23 +55,31 @@ font-weight
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-
+the body of the HTML document
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
+<ol> ordered list
+<ul> unordered list
+<dl> description list
 
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-set's if an item is able to ,how it will grow or shrink to fit the container it's in.
+if a container has display:flex property applied to it
+it's children node can be alligned into rows and columns
+
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+Content-area
+padding-area
+border-area
+Margin-area
 ```
