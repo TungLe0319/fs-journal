@@ -40,6 +40,7 @@ Cascading Style Sheets
 ```
 Selector:Element Name, Id Name, or Class Name
 
+
 Property: an attribute such as color, background-color,font-size etc...
 
 Value:defines property or property values
