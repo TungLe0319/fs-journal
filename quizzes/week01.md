@@ -67,7 +67,7 @@ font-weight
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+set's if an item is able to ,how it will grow or shrink to fit the container it's in.
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
