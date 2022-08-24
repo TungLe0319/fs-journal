@@ -71,15 +71,16 @@ the body of the HTML document
 <!-- enter you answer in the space below -->
 ```
 if a container has display:flex property applied to it
-it's children node can be aligned into rows and columns sharing the width of their parent container 
+it's children nodes can be aligned into rows and columns sharing the width of their parent container 
 
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-Content-area
-padding-area
-border-area
-Margin-area
+Width
+Height
+Border
+Margin
+padding
 ```
