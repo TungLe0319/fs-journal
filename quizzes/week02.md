@@ -39,7 +39,7 @@ let them = { name:"Them", hair: false, friends: [] }
 how would you .push the `them` object into the `you` object's array of friends?
 <!-- enter you answer in the space below -->
 ```
-you.friends.push()
+you.friends.push(them)
 ```
 
 **6.** Give an example of a JavaScript `Conditional`:
