@@ -61,17 +61,27 @@ Operator & expressions  incrementor ++
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
-
+Document Object Model
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-
+Primitive values (immutable datum represented directly at the lowest level of the language)
+Boolean type
+Null type
+Undefined type
+Number type
+BigInt type
+String type
+Symbol type
+Objects (collections of properties)
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
 ```
+Parameter: the thing that gets passed within the function definition.
+Argument: the thing that gets passed when the function is called.
 
 ```
 **11.** What is the difference between a `primitive` value and a `reference` value?
