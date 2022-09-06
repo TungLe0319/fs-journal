@@ -61,7 +61,9 @@ Operator & expressions  incrementor ++
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
-Document Object Model
+Document Object Model,
+the data representation of the object that comprise the contents of a document on the web.
+the index.HTML file.
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
@@ -80,12 +82,16 @@ Objects (collections of properties)
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
 ```
-Parameter: the thing that gets passed within the function definition.
-Argument: the thing that gets passed when the function is called.
+Parameter: is the variable in the declaration of the function
+Argument: the actual value of this variable  that gets passed when the function is called.
+used sometimes interchangeably
 
 ```
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
 ```
+primitive values are strings,numbers,booleans,null,undefined and symbols
 
+ while reference values are objects {}, array, map. 
+ Reference value stored in the variable location (objects or arrays etc..) and is a pointer to a location in memeory where the object is stored.
 ```
