@@ -13,12 +13,12 @@
 **3.** What feature of Vue can be used to repeat an element using a collection of data?
 <!-- enter you answer in the space below -->
 ```
-
+v-for 
 ```
 **4.** What are the three tags that make up a Vue component?
 <!-- enter you answer in the space below -->
 ```
-
+template,script,
 ```
 **5.** What does the `L` represent in the `SOLID` principles?
 <!-- enter you answer in the space below -->
@@ -53,5 +53,5 @@
 **12.** What is the Vue method used to create watchable objects such as `state` or `AppState`?
 <!-- enter you answer in the space below -->
 ```
-
+reactive
 ```
